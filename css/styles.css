@@ -187,6 +187,13 @@ section {
     color:var(--color-link);
 }
 
+.mail-icon{
+      justify-content: center;
+  align-items: center;
+  fill: var(--primary-text-color);
+  margin-right: 10px;
+}
+
    /* ------------------section-1 ------------------*/
 .sec-bg{
     background-color: var(--color-sect-bg);
