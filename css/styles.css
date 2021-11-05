@@ -187,12 +187,7 @@ section {
     color: var(--color-link);
 }
 
-.address-link-icon:focus, 
-.address-link-icon:hover,
-.address-link:focus,
-.address-link:hover{
-    fill: var(--color-link);
-}
+
 
 
 .address-link-icon{
@@ -200,6 +195,7 @@ section {
     align-items: center;
     margin-right: 10px;
     fill:var(--color-p-text);
+    stroke: currentColor;
     
 }
 
