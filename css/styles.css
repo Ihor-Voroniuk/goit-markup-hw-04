@@ -194,8 +194,7 @@ section {
     justify-content: center;
     align-items: center;
     margin-right: 10px;
-    fill:var(--color-p-text);
-    stroke: currentColor;
+    fill: currentColor;
     
 }
 
